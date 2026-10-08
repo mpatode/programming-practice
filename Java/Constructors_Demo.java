@@ -1,0 +1,21 @@
+package _old;
+class Demo
+{
+   public Demo()
+   {
+    System.out.println("Inside Default Constructor");
+   }
+
+   public Demo(int i, int j) //Parameterized constuctor
+   {
+    System.out.println("Inside Parameterised Constructor");
+   }
+}
+
+class Constructors_Demo {
+    public static void main(String A[])
+    {
+        Demo dobj1 = new Demo();
+        Demo dobj2 = new Demo(11, 21);
+    }
+}
