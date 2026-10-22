@@ -1,4 +1,4 @@
-package _old;
+
 class Marvellous 
 {
     public int No1;  //class chi characteristic

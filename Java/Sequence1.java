@@ -1,4 +1,3 @@
-package _old;
 class Sequence1
 {
     public static void main(String A[])

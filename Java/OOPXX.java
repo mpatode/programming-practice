@@ -1,4 +1,3 @@
-package _old;
 class Arithmatic 
 {
     public int No1;

@@ -1,4 +1,3 @@
-package _old;
 class Demo
 {
    public Demo()

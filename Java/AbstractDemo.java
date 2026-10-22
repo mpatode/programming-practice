@@ -1,4 +1,3 @@
-package _old;
 abstract class Base {
     public int i, j;
 

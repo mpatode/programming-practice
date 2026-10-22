@@ -1,4 +1,3 @@
-package _old;
 import java.util.Scanner;
 
 class Addition

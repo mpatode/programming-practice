@@ -1,7 +1,4 @@
-package _old;
 import java.util.*;
-
-import Demo;
 
 class Demo
 {

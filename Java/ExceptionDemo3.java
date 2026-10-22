@@ -1,8 +1,4 @@
-package _old;
 import java.util.*;
-
-import Demo;
-
 class Demo
 {
     public static int Division(int No1, int No2)

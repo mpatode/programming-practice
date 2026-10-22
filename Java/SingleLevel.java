@@ -1,4 +1,3 @@
-package _old;
 class Base
 {
     public int i, j;
